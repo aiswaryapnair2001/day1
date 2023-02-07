@@ -5,3 +5,7 @@ h1{
 .pt
 {   border:5px outset red
 }
+img{
+    height:50px;
+    width:40px;
+}
